@@ -1,0 +1,95 @@
+body{
+    gap: 50px;
+
+}
+.head {
+    background: url("../new-year-new-me/images/top-view-abstract-assortment-with-innovation-elements\ 1.png"), lightgray 50% / cover no-repeat;
+    width: auto;
+    height: 700px;
+    margin: auto;
+    text-align: right;
+    display: block;
+    max-width: 1600px;
+    height: auto;
+    padding-right: 230px;
+    padding-left: 880px;
+    padding-top: 220px;
+    padding-bottom: 160px;
+    justify-content: space-around;
+    
+}
+
+.section-title {
+    color: var(--Dark-01, #151414);
+    text-align: ;
+    font-family: Work Sans;
+    font-size: 65px;
+    font-weight: 700;
+    width: 525px;
+    height: 228px;
+}
+
+.section-description {
+    color: var(--Dark-02, #444343);
+    
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+
+    width: 515px;
+    height: 90px;
+
+   
+}
+
+.btn-primary {
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    background: #F15B22;
+    color: white;
+    float:inline-end;
+    position: absolute;
+    right: inherit;
+}
+.image{
+    width: 527.929px;
+    height: 527.929px;
+}
+.back-color{
+   
+    border-radius: 50%;
+    background-color: rgba(241, 91, 34, 0.20);
+    background-position: bottom ;
+    ;
+    margin: auto;
+}
+.content-body{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding: 0px 322px 0px 206px;
+}
+.section-titleo{
+    color: var(--Dark-01, #151414);
+font-family: Work Sans;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.list{
+    list-style-type: none;
+    ;
+}
+.contento{
+    padding: 330px;
+
+}
+.my-plans{
+    display: flex;
+    justify-content: space-between;
+    padding: 230px;
+}
+  
